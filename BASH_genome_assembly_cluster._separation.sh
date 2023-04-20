@@ -78,5 +78,3 @@ for f in *.bam; do echo $f; bamtools count -in $f \
 # you can modify this according to your choice 
 touch insert_coverage_alignment.txt | paste $f.insert.txt \
     $f.coverage.txt $f.count.read.alignment.txt 
-
-# aligning the reads for the alignment file
