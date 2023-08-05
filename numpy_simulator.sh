@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # -*- coding:  utf-8 -*-
 # Author: Gaurav Sablok
-# date: 2021-03-24
+# date: 2023-08-05
 # MIT License
 # a numpy simulator writted in bash for the quick recall
 # main ✗ $ sh numpy_simulator.sh
