@@ -2,7 +2,7 @@
 
 slurm-pbs configurations for several pipelines and analysis pertraining to genome analysis and devops management. 
 
-Gaurav Sablok \
+Gaurav \
 Academic Staff Member \
 Bioinformatics \
 Institute for Biochemistry and Biology \
